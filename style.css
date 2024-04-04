@@ -98,6 +98,10 @@ font-size:2rem;
     padding-top:0.5rem;
 }
 
+.download-bttn{
+    color:var(--border-color);
+    font-size:13px;
+}
 
 /*EXPERIENCE*/
 .about-description{
